@@ -1,3 +1,19 @@
+1. Setup MetaMask for Base Mainnet
+
+Add the Base network manually if it's not already there:
+
+Network Name: Base Mainnet
+
+RPC URL: https://mainnet.base.org
+
+Chain ID: 8453
+
+Currency Symbol: ETH
+
+Block Explorer: https://basescan.org
+
+
+
 1. Go to: https://basescan.org
 
 
