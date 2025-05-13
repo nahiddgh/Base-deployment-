@@ -12,6 +12,9 @@ Currency Symbol: ETH
 
 Block Explorer: https://basescan.org
 
+2. Open Remix
+
+Go to https://remix.ethereum.org
 
 
 1. Go to: https://basescan.org
