@@ -16,6 +16,13 @@ Block Explorer: https://basescan.org
 
 Go to https://remix.ethereum.org
 
+3. Create Your Solidity File
+
+1. In the File Explorer, click "contracts" > "+" and name it MyBaseToken.sol
+
+
+2. Paste the code:
+
 
 1. Go to: https://basescan.org
 
