@@ -21,7 +21,18 @@ Go to https://remix.ethereum.org
 1. In the File Explorer, click "contracts" > "+" and name it MyBaseToken.sol
 
 
-2. Paste the code:
+2. Paste the code
+
+   4. Compile the Contract
+
+1. Click the Solidity Compiler tab.
+
+
+2. Select version 0.8.20
+
+
+3. Click Compile MyBaseToken.sol
+
 
 
 1. Go to: https://basescan.org
