@@ -32,6 +32,27 @@ Go to https://remix.ethereum.org
 
 
 3. Click Compile MyBaseToken.sol
+4. 5. Deploy Using MetaMask
+
+1. Click the Deploy & Run Transactions tab.
+
+
+2. Under Environment, select Injected Provider - MetaMask
+
+MetaMask will ask for permission to connect.
+
+
+
+3. Choose your contract (MyBaseToken)
+
+
+4. Enter the constructor argument (e.g. 1000000000000000000000000 for 1M tokens with 18 decimals)
+
+
+5. Click Deploy
+
+
+6. Confirm the transaction in MetaMask
 
 
 
