@@ -72,3 +72,5 @@ MetaMask will ask for permission to connect.
 Compiler version (must match exactly)
 
 Optimization settings
+
+if you have any questions send me dm on Twitter 
